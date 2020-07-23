@@ -1,0 +1,7 @@
+main: com.prevter.screenmirror.App
+name: ScreenMirror
+version: 0.1
+commands:
+  freq:
+    description: Change screen update speed.
+    usage: /<command> speed
